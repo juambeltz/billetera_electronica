@@ -1,7 +1,4 @@
-# :name_badge: Billetera electronica
-
-## :man: Autor
-- Juan I. Juambeltz
+# :name_badge: Sitio : Billetera electronica
 
 ## :newspaper: Descripcion 
 - en construcción
