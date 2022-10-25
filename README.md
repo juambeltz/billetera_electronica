@@ -11,4 +11,4 @@
 - css
 
 ## 🌐 Ver sitio en vivo
-https://juambeltz.github.io/casa_bosque/
+https://juambeltz.github.io/billetera_electronica/
